@@ -38,7 +38,7 @@ Think of ARCUS-H as a prototype for a community **layer**:
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python compare_agents_v3.py
+python compare_agents.py
 ```
 
 Outputs:
