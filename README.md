@@ -3,7 +3,7 @@
 
 > **Question:** What if an agent can maximize reward — yet **collapse** under grief, betrayal, or meaning loss?
 
-**ARCUS-H** is a small, hackable research scaffold that explores a simple idea:
+**ARCUS-H**(ARCUS Harness): An Identity Stability Layer for Reinforcement Learning, is a small, hackable research scaffold that explores a simple idea:
 
 **Add an “identity + narrative robustness” layer on top of agent decision-making, and evaluate it under adversarial collapse scenarios.**
 
